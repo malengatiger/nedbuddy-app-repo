@@ -1,0 +1,53 @@
+name: nedbuddy3
+description: App for Nedbank API
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  shared_preferences: any
+  fancy_on_boarding: ^1.2.0
+  http: ^0.12.0+2
+  firebase_auth: any
+  cloud_firestore: any
+  dio: ^2.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/calendar.png
+    - assets/home.png
+    - assets/house.png
+    - assets/mountain.png
+    - assets/plane.png
+    - assets/world.png
+    - assets/banks.png
+    - assets/hotels.png
+    - assets/key.png
+    - assets/shopping_cart.png
+    - assets/wallet.png
+    - assets/world.png
+    - assets/calendar.png
+    - assets/stores.png
+
+  fonts:
+    - family: FlamanteRoma
+      fonts:
+        - asset: assets/fonts/Flamante-Roma-Medium.ttf
+        - asset: assets/fonts/Lato-Bold.ttf
+        - asset: assets/fonts/Flamante-Roma-MediumItalic.ttf
+          style: italic
+
+    - family: Raleway
+      fonts:
+        - asset: assets/fonts/Raleway-Bold.ttf
+        - asset: assets/fonts/Raleway-ExtraBold.ttf
+        - asset: assets/fonts/Raleway-Regular.ttf
+        - asset: assets/fonts/Raleway-Italic.ttf

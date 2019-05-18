@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1069603019913",
+    "firebase_url": "https://nedbuddy3.firebaseio.com",
+    "project_id": "nedbuddy3",
+    "storage_bucket": "nedbuddy3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069603019913:android:4846a0704ee73684",
+        "android_client_info": {
+          "package_name": "com.aftarobot.nedbuddy3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069603019913-hsrfsq6pca4b41303gn23vkc5umgljon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aftarobot.nedbuddy3",
+            "certificate_hash": "c2a612e2c1c6c058f139ab260f5112807326ee17"
+          }
+        },
+        {
+          "client_id": "1069603019913-h1gkp09gne846fa7u2br6qt7fg710jvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS6AAb7BgRusKbMCNanZTtQYyfcjlXuYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069603019913-h1gkp09gne846fa7u2br6qt7fg710jvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

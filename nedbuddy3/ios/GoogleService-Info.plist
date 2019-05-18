@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1069603019913-hvbml7umbnrpf1v090fu9714t16lbqoq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1069603019913-hvbml7umbnrpf1v090fu9714t16lbqoq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1069603019913-hsrfsq6pca4b41303gn23vkc5umgljon.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCk_ULKWVlQgeM_7nOPIXCuhHHpqIez430</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1069603019913</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.aftarobot.nedbuddy3</string>
+	<key>PROJECT_ID</key>
+	<string>nedbuddy3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nedbuddy3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1069603019913:ios:4846a0704ee73684</string>
+	<key>DATABASE_URL</key>
+	<string>https://nedbuddy3.firebaseio.com</string>
+</dict>
+</plist>
